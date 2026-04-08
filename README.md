@@ -66,15 +66,10 @@ pip install -r requirements.txt
 
 ## 🏃 Usage
 
-1. **Run FastAPI locally**
-```bash
-uvicorn agent:app --reload
-```
+You can access and use the API **directly via the deployed Cloud Run URL**:
 
-2. **Access API docs**
-- Open: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
-3. **Use endpoints to create and manage tasks**
+- API docs: [https://task9-595950052923.europe-west1.run.app/docs](https://task9-595950052923.europe-west1.run.app/docs)  
+- Interact with endpoints using **Postman**, **curl**, or integrate in your apps.
 
 ---
 
@@ -88,4 +83,4 @@ uvicorn agent:app --reload
 
 ## 📬 Contact
 Sahana Naikar  
-✉️ Email: sahananaikar104@gmail.com  
+✉️ Email: sahananaikar104@gmail.com
